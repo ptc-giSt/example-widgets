@@ -1,0 +1,19 @@
+{
+  "manifest_version": 1,
+  "name": "Simple Widgets",
+  "description": "",
+  "version": "1.0",
+  "ide": {
+    "libraries": [],
+    "angular_modules": [
+    ]
+  },
+  "runtime": {
+    "libraries": [
+    ],
+    "angular_modules": [
+    ]
+  },
+  "themes": [
+  ]
+}
