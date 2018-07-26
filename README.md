@@ -6,5 +6,5 @@ Each extension will be contained in a single folder (simpleWidgets in this case)
 
 The repository root should contain only :
 * .git/
-* {extension name}
+* {extension name}/
 * README.md 
