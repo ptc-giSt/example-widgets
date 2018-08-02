@@ -1,7 +1,7 @@
 function twxTestWidget() {
     return {
         elementTag: 'twx-testWidget',
-        label: 'testWidget',
+        label: 'example-widgets:CapitalLabel',
         properties: [
             {
                 name: 'testProp',

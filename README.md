@@ -1,10 +1,24 @@
-# example-widgets
+## Basic HTML Widgets Extension ##
+This extension provides the basic HTML widgets (input, labels, grids, panels, etc.) that can be added to ThingWorx Studio.
 
-Example widgets provided by Studio team
+## Installation ##
+To include this extension in Studio, add the following to your package.json:
 
-Each extension will be contained in a single folder (simpleWidgets in this case)
+    "dependencies": {
+      ...
+      "ves-basic-web-widgets-extension": "^1.0.0"
+    },
+    "studioExtensions": {
+      ...
+      "ves-basic-web-widgets-extension": "^1.0.0"
+    }
 
-The repository root should contain only :
-* .git/
-* {extension name}
-* README.md 
+
+## Updating the copyrights:
+
+The following command was used to insert the copyright text.
+
+```
+git clean -xfd
+node ~/src/thing/copyrightUtil/src/main.js 'runtime/js/!(Chart.min).js' 'widgets/**/*.js' 'ide/**/*.js'
+```
