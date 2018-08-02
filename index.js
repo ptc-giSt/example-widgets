@@ -1,0 +1,1 @@
+exports.extensionInfo = {extensionType:'widget'}; // inherit the widget extension defaults

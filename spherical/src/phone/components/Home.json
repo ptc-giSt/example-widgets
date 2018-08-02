@@ -1,0 +1,107 @@
+{
+  "attributes": {
+    "twx-widget": "",
+    "widget-id": "view-1",
+    "viewtype": "ar",
+    "widget-name": "view-1",
+    "is-widget-container": "true"
+  },
+  "children": [
+    {
+      "name": "twx-container-content",
+      "children": [
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "x-e27d9e8d-0656-4eba-8cac-0dc238636fa5",
+            "widget-name": "3D Container",
+            "is-widget-container": "true"
+          },
+          "name": "twx-dt-view",
+          "children": [
+            {
+              "name": "twx-container-content",
+              "children": [
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "nolighting",
+                    "widget-name": "nolighting",
+                    "text": "<script name=\"nolighting\" type=\"x-shader/x-fragment\">\n  precision mediump float;\n\n  varying vec2 texCoord;\n\n  uniform sampler2D texSampler2D;\n \n  void main(void) { \n    gl_FragColor = vec4(texture2D(texSampler2D, texCoord.xy).rgb, 1.0);\n  }\n</script>\n<script name=\"nolighting\" type=\"x-shader/x-vertex\">\n  attribute vec3 vertexPosition;\n  attribute vec2 vertexTexCoord;\n\n  varying vec2 texCoord;\n\n  uniform mat4 modelViewProjectionMatrix;void main() {\n    gl_Position = modelViewProjectionMatrix * vec4(vertexPosition, 1.0);\n    texCoord    = vertexTexCoord;\n}\n</script>"
+                  },
+                  "name": "twx-tml-text",
+                  "children": [
+                    {
+                      "attributes": {
+                        "name": "text"
+                      },
+                      "name": "twx-widget-property-value"
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "spatialTarget-1",
+                    "rx": "-90",
+                    "widget-name": "spatialTarget-1"
+                  },
+                  "name": "twx-dt-target-spatial"
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "sphere",
+                    "src": "Uploaded/spherical.pvz",
+                    "scale": "20",
+                    "widget-name": "sphere",
+                    "modelloaded-expression": "onload()"
+                  },
+                  "name": "twx-dt-model"
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "surface",
+                    "model": "sphere",
+                    "idpath": "/@@PV-AUTO-ID@@000",
+                    "scale": "1.0000",
+                    "x": "0.0000",
+                    "y": "0.0000",
+                    "z": "0.0000",
+                    "rx": "0.00",
+                    "ry": "0.00",
+                    "rz": "0.00",
+                    "widget-name": "surface"
+                  },
+                  "name": "twx-dt-modelitem"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "2DOverlay-1",
+            "widget-name": "2D Overlay",
+            "is-widget-container": "true"
+          },
+          "name": "twx-overlay",
+          "children": [
+            {
+              "name": "twx-container-content"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "twx-fragment-parameters"
+    },
+    {
+      "name": "twx-view-data"
+    }
+  ],
+  "name": "twx-view"
+}

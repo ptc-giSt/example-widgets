@@ -1,0 +1,66 @@
+2018-07-25T12:19:41.749Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001] Begin upgrade of project snippet_shader_clip_pump_simple_001
+2018-07-25T12:19:41.749Z - info: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001] Upgrading project snippet_shader_clip_pump_simple_001 C:\Users\wvanballegooij\Documents\VuforiaStudio\Projects\snippet_shader_clip_pump_simple_001 from 1.26.1125 to 8.3.0.3345 (1.26.1125)
+2018-07-25T12:19:41.751Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001] Make sure there are not any stale files lying around
+2018-07-25T12:19:41.751Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001] Removing  C:\Users\wvanballegooij\Documents\VuforiaStudio\Projects\snippet_shader_clip_pump_simple_001/src/phone/resources/Default/
+2018-07-25T12:19:41.810Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001] Create .gitignore for project dir
+2018-07-25T12:19:41.812Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001] Copying /src/**/* to project, overwrite=false
+2018-07-25T12:19:41.814Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001] Copying /**/* to project, skip /src/**/*,  overwrite=true
+2018-07-25T12:19:41.874Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001] Copy of project files complete
+2018-07-25T12:19:41.874Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001] Updating version to  8.3.0.3345 (1.26.1125)
+2018-07-25T12:19:41.874Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001] onupgrade sucessful, now build the project
+2018-07-25T12:19:41.874Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001] BEGIN buildApp snippet_shader_clip_pump_simple_001_1532521181874
+2018-07-25T12:19:41.874Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001] write settings
+2018-07-25T12:19:41.875Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001] copy runtime extensions
+2018-07-25T12:19:41.994Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001] packageThemeSet
+2018-07-25T12:19:42.767Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001] onBuild
+2018-07-25T12:19:42.767Z - info: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001] Building ves-ar-extension app: snippet_shader_clip_pump_simple_001
+2018-07-25T12:19:42.773Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001] pathDir C:\Users\wvanballegooij\Documents\VuforiaStudio\Projects\snippet_shader_clip_pump_simple_001
+2018-07-25T12:19:42.773Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001] scaffoldDir C:\Users\wvanballegooij\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+2018-07-25T12:19:42.773Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001] copySrc
+2018-07-25T12:19:43.114Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001] buildApp
+2018-07-25T12:19:43.233Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001] END buildApp snippet_shader_clip_pump_simple_001_1532521181874
+2018-07-25T12:19:43.233Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001] Build succeeded.
+2018-07-25T18:54:19.988Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (3)] Begin upgrade of project snippet_shader_clip_pump_simple_001 (3)
+2018-07-25T18:54:19.989Z - info: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (3)] Upgrading project snippet_shader_clip_pump_simple_001 (3) C:\Users\sghee\Documents\VuforiaStudio\Projects\snippet_shader_clip_pump_simple_001 (3) from 1.26.1125 to 8.3.0.3345 (1.26.1125)
+2018-07-25T18:54:19.993Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (3)] Make sure there are not any stale files lying around
+2018-07-25T18:54:19.994Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (3)] Removing  C:\Users\sghee\Documents\VuforiaStudio\Projects\snippet_shader_clip_pump_simple_001 (3)/src/phone/resources/Default/
+2018-07-25T18:54:20.007Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (3)] Create .gitignore for project dir
+2018-07-25T18:54:20.008Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (3)] Copying /src/**/* to project, overwrite=false
+2018-07-25T18:54:20.009Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (3)] Copying /**/* to project, skip /src/**/*,  overwrite=true
+2018-07-25T18:54:20.159Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (3)] Copy of project files complete
+2018-07-25T18:54:20.159Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (3)] Updating version to  8.3.0.3345 (1.26.1125)
+2018-07-25T18:54:20.160Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (3)] onupgrade sucessful, now build the project
+2018-07-25T18:54:20.161Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (3)] BEGIN buildApp snippet_shader_clip_pump_simple_001 (3)_1532544860161
+2018-07-25T18:54:20.161Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (3)] write settings
+2018-07-25T18:54:20.163Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (3)] copy runtime extensions
+2018-07-25T18:54:20.441Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (3)] packageThemeSet
+2018-07-25T18:54:21.974Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (3)] onBuild
+2018-07-25T18:54:21.974Z - info: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (3)] Building ves-ar-extension app: snippet_shader_clip_pump_simple_001 (3)
+2018-07-25T18:54:22.001Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (3)] pathDir C:\Users\sghee\Documents\VuforiaStudio\Projects\snippet_shader_clip_pump_simple_001 (3)
+2018-07-25T18:54:22.001Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (3)] scaffoldDir C:\Users\sghee\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+2018-07-25T18:54:22.001Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (3)] copySrc
+2018-07-25T18:54:22.855Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (3)] buildApp
+2018-07-25T18:54:23.231Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (3)] END buildApp snippet_shader_clip_pump_simple_001 (3)_1532544860161
+2018-07-25T18:54:23.231Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (3)] Build succeeded.
+2018-07-26T09:17:07.110Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (4)] Begin upgrade of project snippet_shader_clip_pump_simple_001 (4)
+2018-07-26T09:17:07.112Z - info: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (4)] Upgrading project snippet_shader_clip_pump_simple_001 (4) C:\Users\sghee\Documents\VuforiaStudio\Projects\snippet_shader_clip_pump_simple_001 (4) from 1.26.1125 to 8.3.0.3345 (1.26.1125)
+2018-07-26T09:17:07.118Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (4)] Make sure there are not any stale files lying around
+2018-07-26T09:17:07.118Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (4)] Removing  C:\Users\sghee\Documents\VuforiaStudio\Projects\snippet_shader_clip_pump_simple_001 (4)/src/phone/resources/Default/
+2018-07-26T09:17:07.140Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (4)] Create .gitignore for project dir
+2018-07-26T09:17:07.141Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (4)] Copying /src/**/* to project, overwrite=false
+2018-07-26T09:17:07.144Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (4)] Copying /**/* to project, skip /src/**/*,  overwrite=true
+2018-07-26T09:17:07.666Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (4)] Copy of project files complete
+2018-07-26T09:17:07.666Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (4)] Updating version to  8.3.0.3345 (1.26.1125)
+2018-07-26T09:17:07.666Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (4)] onupgrade sucessful, now build the project
+2018-07-26T09:17:07.666Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (4)] BEGIN buildApp snippet_shader_clip_pump_simple_001 (4)_1532596627666
+2018-07-26T09:17:07.666Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (4)] write settings
+2018-07-26T09:17:07.666Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (4)] copy runtime extensions
+2018-07-26T09:17:07.926Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (4)] packageThemeSet
+2018-07-26T09:17:09.710Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (4)] onBuild
+2018-07-26T09:17:09.710Z - info: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (4)] Building ves-ar-extension app: snippet_shader_clip_pump_simple_001 (4)
+2018-07-26T09:17:09.731Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (4)] pathDir C:\Users\sghee\Documents\VuforiaStudio\Projects\snippet_shader_clip_pump_simple_001 (4)
+2018-07-26T09:17:09.731Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (4)] scaffoldDir C:\Users\sghee\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+2018-07-26T09:17:09.731Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (4)] copySrc
+2018-07-26T09:17:10.406Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (4)] buildApp
+2018-07-26T09:17:10.629Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (4)] END buildApp snippet_shader_clip_pump_simple_001 (4)_1532596627666
+2018-07-26T09:17:10.629Z - debug: [twx-studio:upgrade:snippet_shader_clip_pump_simple_001 (4)] Build succeeded.
